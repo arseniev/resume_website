@@ -27,16 +27,16 @@ interests:
 education:
   courses:
   - course: PhD in Engineering
-    institution: Technische Universität München
+    institution: Technische Universität München (TUM)
     year: 2017
   - course: MSc with honors in Computational Mechanics
-    institution: Massachusetts Institute of Technology
+    institution:  Technische Universität München (TUM)
     year: 2012 
   - course: MSc in Applied Mechanics
-    institution: Massachusetts Institute of Technology
+    institution: Peter the Great St.Petersburg Polytechnic University (SPbPU)
     year: 2011    
   - course: BSc in Applied Mechanics
-    institution: Massachusetts Institute of Technology
+    institution: Peter the Great St.Petersburg Polytechnic University (SPbPU)
     year: 2009
 
 # Social/Academic Networking
