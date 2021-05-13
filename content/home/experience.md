@@ -22,24 +22,44 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: R&D Engineer
+    company: MTU Aero Engines AG
+    company_url: 'https://www.mtu.de/'
+    location: Munich, Germany
+    date_start: '2018-11-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Developing, implementation and support of numerical methods for optimization, UQ, etc.
+        * Design analysis and optimization (Aerodynamics, Structures, Multi-Disziplinary)
+        * Implementation and automatization of simulation processes
         
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: R&D Engineer
+    company: Ferchau GmbH
+    company_url: 'https://www.ferchau.com/'
+    location: Munich, Germany
+    date_start: '2015-12-01'
+    date_end: '2018-10-31'
+    description: |2-
+        Responsibilities include:
+        
+        * Developing, implementation and support of numerical methods for optimization, UQ, sensitivity analysis, etc. 
+        * Optimiztion and robustness assessment of jet engines turbine and compressor components.
+        * Taking part in research projects 
+        * Implementation and automatization of simulation processes    
+
+  - title: Research associate
+    company: Chair of Computational Mechanics, TUM
+    company_url: 'https://www.bgu.tum.de/cm/startseite/'
+    location: Munich, Germany
+    date_start: '2012-12-01'
+    date_end: '2015-11-30'
+    description: |2-
+        Responsibilities include:
+        
+        * Implementation of multi-disciplinaty (Aero-Structure-Thermal) optimization for vane clusters of a jet engine LPT. 
+        * Developing and implementation of novel efficient surrogate-based optimization and robust-odesign methods
+        * Participating in scientific conferences  
+
 ---
