@@ -31,9 +31,10 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Developing, implementation and support of numerical methods for optimization, UQ, etc.
-        * Design analysis and optimization (Aerodynamics, Structures, Multi-Disziplinary)
+        * Developing, implementation and support of numerical methods for optimization, UQ, sensitivity analysis, etc. 
+        * Design analysis and optimization of jet engine components (Aerodynamics, Structures, Multi-Disziplinary)
         * Implementation and automatization of simulation processes
+        * Leading technology projects
         
   - title: R&D Engineer
     company: Ferchau GmbH
