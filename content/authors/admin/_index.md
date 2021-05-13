@@ -50,9 +50,9 @@ social:
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=_EgYCRwAAAAJ&hl=en
-- icon: github
+- icon: ORCID
   icon_pack: fab
-  link: https://github.com/arseniev/
+  link: https://orcid.org/0000-0003-0212-5977
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
