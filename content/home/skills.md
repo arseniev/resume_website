@@ -17,17 +17,20 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: r-project
+  name: FEM (ANSYS Mechanical, APDL, CalculiX)
+- description: 90%
+  name: CAD (SolidWorks, Catia, NX)
+- description: 90%
+  icon: fa-python
   icon_pack: fab
-  name: R
-- description: 100%
+  name: Python (Optimization, Statistics, ML, Data Mining)
+- description: 80%
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+- description: 80%
+  name: Structural Optimization
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
